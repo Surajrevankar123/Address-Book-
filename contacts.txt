@@ -1,0 +1,6 @@
+Alice,1234567890,alice@mail.com
+Bob,9876543210,bob@mail.com
+suraj,9036547692,s@g.com
+ramesh,7019245592,r@g.com
+laxmi,7892821528,l@g.com
+manoj,0987654321,m@g.com
